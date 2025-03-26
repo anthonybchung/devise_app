@@ -1,24 +1,4 @@
-# README
+# I only want my clients/customers to join the system.
+# So, I want a function that will create a link that I can email the customer for them to register onto the system.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
